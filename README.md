@@ -1,2 +1,2 @@
-# assembly-examples
+# Assembly Examples
 Examples to learn assembly languages
